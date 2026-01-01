@@ -1,8 +1,9 @@
 # SQL_RetailProject_P1
 
 ## Retail Sales Data Analysis
+This project is a replication of the original SQL retail sales analysis project: [Retail Sales Analysis SQL Project (P1)](https://github.com/najirh/Retail-Sales-Analysis-SQL-Project--P1) by **najirh**. :contentReference[oaicite:0]{index=0}
 
-This is a small project/exercise designed to practice and implement data analytics skills. The project focuses on cleaning, exploring, and analyzing a dataset related to retail sales to extract meaningful insights and patterns.
+This is designed to practice and implement data analytics skills. The project focuses on cleaning, exploring, and analyzing a dataset related to retail sales to extract meaningful insights and patterns.
 
 ## Project Overview
 
